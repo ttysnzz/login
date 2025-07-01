@@ -1,7 +1,14 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: linear-gradient(45deg,cyan,yellow);
+    background-image: linear-gradient(45deg,rgb(96, 219, 71),rgb(173, 113, 185));
 }
 div{
-    background-color: rgb(32, 32, 109);
+    background-color: rgb(191, 169, 196);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, _50%);
+    padding: 80px;
+    border-radius: 15px;
+    colo
 }
